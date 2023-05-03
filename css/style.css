@@ -505,7 +505,7 @@ img:hover {
 	}
 
 	#services iframe {
-		width: 350px;
+		width: 310px;
 	}
 
 
@@ -548,14 +548,3 @@ img:hover {
 
 }
 
-@media screen and (max-width: 1024px)  {
-	.carousel-caption h2 {
-		font-size: 20px;
-	}
-
-	.services iframe{
-		align-items: center;
-        margin-left: 5px;
-	}
-
-}
